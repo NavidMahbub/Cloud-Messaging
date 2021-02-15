@@ -1,0 +1,11 @@
+.custom_modal_body{
+	overflow: auto;
+    min-height: 380px; width:99%;
+}
+.sidebar .nav-link.active{
+	background: #20a8d8;
+}
+
+.sidebar .nav-dropdown.open {
+    background: rgb(1, 90, 121);
+}
